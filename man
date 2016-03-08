@@ -1,0 +1,11 @@
+\name{Peirce}
+\alias{Peirce}
+\alias{newnewreg}
+\title{Peirce}
+\usage{
+newnewreg(formula, data, subset, weights, na.action, method = "qr",
+  model = TRUE, contrasts = NULL, offset, ...)
+}
+\description{
+Peirce
+}
