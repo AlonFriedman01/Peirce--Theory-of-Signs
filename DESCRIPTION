@@ -1,0 +1,12 @@
+Package: Peirce Theory of sign
+Type: Package
+Title: Peirce Theory of sign
+Version: 0.1.0
+Authors: Alon Friedman
+Email: alonfriedman@usf.edu
+Description: Peirce sign theory and its classification. Bare Bones.
+License: G3
+LazyData: TRUE
+RoxygenNote: 5.0.1
+NeedsCompilation: no
+Packaged: 2016-03-07 21:07:42 UTC; Friedman
